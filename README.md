@@ -1,2 +1,9 @@
-# -
 数字电路课设之多功能数字时钟
+
+CTRL_FSM_1为时钟控制模块
+clk_extra为时钟模块
+alarm_clk为闹钟模块
+digital_tube_driver为数码管显示输出模块
+keypress为按键消抖模块
+clk_1k为1khz时钟模块
+clk_top为顶层模块
